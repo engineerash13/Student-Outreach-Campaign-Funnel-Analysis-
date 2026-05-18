@@ -97,15 +97,4 @@ dashboard/   -> Power BI dashboard
 report/      -> project reports
 presentation/-> project presentations
 
-## Repository Structure
-Predictive enrollment analytics
-Automated reporting system
-Real-time outreach monitoring
-Advanced campaign segmentation
-Author
 
-Ashwin Suryawanshi
-
-Connect With Me
-LinkedIn: https://www.linkedin.com/in/ashwin-suryawanshi-817682170/
-GitHub: https://github.com/engineerash13
