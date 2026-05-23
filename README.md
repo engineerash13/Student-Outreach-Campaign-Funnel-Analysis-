@@ -2,7 +2,7 @@
 
 A data analytics project examining student outreach and campaign performance using Power BI and Python. The objective was to evaluate campaign effectiveness, track conversion and response trends, and build interactive KPI dashboards for data-driven student engagement decisions.
 
-**Author:** Ashwin Suryawanshi | **Type:** Team Project (Labmentix Internship)
+**Author:** Ashwin Suryawanshi | **Type:** Team Project (Excelerate Internship)
 
 ---
 
